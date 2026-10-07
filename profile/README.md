@@ -1,9 +1,9 @@
-<!-- Amity Corporation — GitHub landing page. Mirror of profile/README.md (the organization profile); keep both in sync, only the asset paths differ. -->
+<!-- Amity Corporation — GitHub organization profile (rendered at https://github.com/amity-corp). Mirrored by the root README.md; keep both in sync, only the asset paths differ. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/assets/hero-light.svg" />
-  <img alt="Amity Corporation — We build Vertical & Physical AI companies" src="profile/assets/hero-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img alt="Amity Corporation — We build Vertical & Physical AI companies" src="assets/hero-light.svg" width="100%" />
 </picture>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/📍_Bangkok-Global-0F86FE?style=for-the-badge" alt="Bangkok, Global" />
 </p>
 
-<img src="profile/assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Overview
 
@@ -58,7 +58,7 @@ cross-company assets: shared documentation, standards and group-wide tooling.
   <a href="https://docs.amitysolutions.com/"><b>Product Documentation</b></a>
 </p>
 
-<img src="profile/assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
   <sub>🔒 Internal use only — Amity Corporation</sub><br/>
